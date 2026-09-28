@@ -1,4 +1,4 @@
-# Cisco OSPF Single-Area Lab
+Cisco OSPF Single-Area Lab
 
 ## Overview
 
